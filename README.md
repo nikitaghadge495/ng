@@ -13,7 +13,7 @@ git push origin main
 chekout
 git chekout -b "version1"
 git branch 
-main 
+main  
 git add .
 git push origin  version1
 git pull
